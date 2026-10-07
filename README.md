@@ -1,10 +1,10 @@
-# MediCube outreach one-pagers
+# MediCube outreach links
 
-Public one-pagers for MediCube outreach. Use these labeled links in emails.
+Use one link per email.
 
-| Audience | One-pager |
+| Email audience | Current one-pager |
 | --- | --- |
-| Product testing and agency partners | [View product testing and agency partnerships one-pager](https://github.com/MediCube-usa/medicube-assets/blob/main/MediCube_Campus_Research_Partner_One_Pager.pdf) |
-| Universities, fraternities and student groups | [View campus wellness one-pager](https://github.com/MediCube-usa/medicube-assets/blob/main/MediCube_Campus_Wellness_One_Pager.pdf) |
+| Product testing and agency partners | [View product testing one-pager](https://medicube-one-pagers.funding-outl-1317.chatgpt.site/product-testing/) |
+| Universities, fraternities and student groups | [View university / fraternity one-pager](https://medicube-one-pagers.funding-outl-1317.chatgpt.site/campus-wellness/) |
 
-Both links open GitHub's browser preview. No Acrobat Reader or GitHub sign-in is required.
+Each link opens directly to its own page. No GitHub screen, Acrobat, download, or login.
